@@ -1,0 +1,5 @@
+4
+St. Petersburg;Moscow;10;20
+Samara;Moscow;20;15
+Omsk;St. Petersburg;40;35
+Moscow;Omsk;10;N/A
